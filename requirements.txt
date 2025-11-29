@@ -1,0 +1,8 @@
+pystyle>=2.0.0      # Beautiful CLI interface & coloring
+rich>=13.0.0        # Advanced terminal formatting & progress bars
+colorama>=0.4.6     # Cross-platform colored terminal support
+tqdm>=4.65.0        # Progress bars for long operations
+requests>=2.28.0    # HTTP requests (for version checking/validation)
+psutil>=5.9.0       # Process & system monitoring (used for anti-debug/VM detection)
+pytest>=7.0.0       # For running unit tests
+pyinstaller>=5.0    # For compiling to executable
